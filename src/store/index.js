@@ -1,5 +1,5 @@
 import { createStore } from "vuex";
-import storage from "../../helpers/storage";
+import storage from "@/helpers/storage";
 
 export default createStore({
   state: {
